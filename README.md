@@ -1,6 +1,6 @@
 Hi there 👋
 Name - R.V. Kashika
-Branch - Bioengineering - 1st yea
+Branch - Bioengineering - 1st year
 My interests include research in the field of Biology, specifically Cancer Biology and Neuroscience and I am looking forward to learning more and developing my skills.
 <!--
 **rvkashika767/rvkashika767** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
